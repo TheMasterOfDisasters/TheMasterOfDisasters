@@ -1,16 +1,41 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://hangrylabs.app/">
+    <img src="./assets/hangrylabs_logo_horizontal.webp" alt="Hangry Labs: useful systems, no mystery required" width="100%">
+  </a>
+</p>
 
-<!--
-**TheMasterOfDisasters/TheMasterOfDisasters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm HangryNugget 👋
 
-Here are some ideas to get you started:
+Gamer cursed by side quests. I just want features to exist, but somehow "one small fix" keeps stealing my gaming time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I run [Hangry Labs](https://github.com/hangry-labs), where useful technical proofs of concept grow into finished, approachable tools that people can actually run.
+
+## What I Build
+
+- Local-first and self-hosted software
+- Practical AI tools with browser interfaces and documented APIs
+- Docker images that include the difficult parts
+- Speech, creator, automation, and observability tools
+- The occasional small utility that becomes an entire platform
+
+I care about privacy, reproducible installations, honest technical limits, and software that keeps working after the exciting demo is over.
+
+## Current Side Quests
+
+<p align="center">
+  <a href="https://github.com/hangry-labs/kokoroTTS"><img src="./assets/kokoro_badge.webp" alt="KokoroTTS" width="180"></a>
+  <a href="https://github.com/hangry-labs/OmniVoiceTTS"><img src="./assets/omnivoice_badge.webp" alt="OmniVoiceTTS" width="180"></a>
+  <a href="https://github.com/hangry-labs/Qwen3-ASR-STT"><img src="./assets/qwen3_asr_badge.webp" alt="Qwen3-ASR-STT" width="180"></a>
+  <a href="https://github.com/hangry-labs/llama.nodrama"><img src="./assets/llama-nodrama_badge.webp" alt="llama.nodrama" width="180"></a>
+</p>
+
+<p align="center"><sub>Pick a side quest. Each badge opens its repository.</sub></p>
+
+More projects live at [github.com/hangry-labs](https://github.com/hangry-labs).
+
+## Find Me
+
+- 🌐 [hangrylabs.app](https://hangrylabs.app/)
+- 🧪 [Hangry Labs on GitHub](https://github.com/hangry-labs)
+
+For humanity and the power of nuggets.
