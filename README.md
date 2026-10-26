@@ -30,6 +30,7 @@ I care about privacy, reproducible installations, honest technical limits, and s
   <a href="https://github.com/hangry-labs/VoxCPMTTS"><img src="./assets/voxcpmtts_badge.webp" alt="VoxCPMTTS" width="180"></a>
   <a href="https://github.com/hangry-labs/Qwen3-ASR-STT"><img src="./assets/qwen3_asr_badge.webp" alt="Qwen3-ASR-STT" width="180"></a>
   <a href="https://github.com/hangry-labs/llama.nodrama"><img src="./assets/llama-nodrama_badge.webp" alt="llama.nodrama" width="180"></a>
+  <a href="https://github.com/hangry-labs/faster-qwen3-tts-studio"><img src="./assets/qwen3_tts_badge.webp" alt="Faster Qwen3-TTS Studio" width="180"></a>
 </p>
 
 <p align="center"><sub>Pick a side quest. Each badge opens its repository.</sub></p>
